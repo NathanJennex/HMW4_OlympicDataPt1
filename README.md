@@ -1,6 +1,6 @@
 # Winter Olympic Medals
 
-# All about the tunes! This is a fan website dedicated to the Hip-Hop community.
+# This is a visual representation of Winter Olympic medals won by countries from 1924 - 2014
 
 ## Requirements 
 You will end a working up-to-date internet browser.
